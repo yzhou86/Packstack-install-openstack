@@ -12,7 +12,7 @@ packstack --allinone
 
 * These steps above will install OpenStack all in one, with default modules.
 
-## Tops:
+## Tips:
 1. If it is installed on a VM, then should modify below config for packstack:
 ```
 vi /root/packstack-answers-20161122-005249.txt
